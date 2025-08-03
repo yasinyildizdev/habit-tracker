@@ -56,5 +56,6 @@ Bu projeyi yerel makinenizde kurmak ve çalıştırmak için aşağıdaki adıml
 
 *   **Flutter:** Çapraz platform uygulama geliştirme çerçevesi.
 *   **Hive:** Hızlı ve hafif bir NoSQL veritabanı.
-*   **GetX:** Durum yönetimi, rota yönetimi ve bağımlılık ekleme için bir mikro çerçeve.
-*   **i18n:** Uluslararasılaştırma ve yerelleştirme.
+*   **hooks_riverpod & flutter_hooks:** Esnek ve güçlü bir durum yönetimi çözümü.
+*   **slang:** Kolay ve güvenli uluslararasılaştırma (i18n).
+*   **sqflite:** Yerel veritabanı işlemleri için.
