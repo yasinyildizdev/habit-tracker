@@ -2,12 +2,13 @@
 
 Bu uygulama, kullanıcıların günlük alışkanlıklarını takip etmelerine, hedefler belirlemelerine ve zaman içindeki ilerlemelerini görselleştirmelerine yardımcı olmak için tasarlanmış bir Flutter projesidir.
 
-## ✨NOTLAR:
-1- Proje kodlanırken herhangi bir yapay zeka aracı kullanılmadı. Sadece githuba yüklenirken gemini cli kullanıldı.
-2- Tasarımlar tamamen özgündür.
-3- Proje githuba yüklenme tarihinden yıllar önce kodlanmış olup kodların durması maksatlı paylaşılmıştır.
-4- Keyfi projedir. Bireysel olarak android cihazımda kullanıyorum.
-5- Play store üzerinde gönderisini oluşturdun ama aab olarak paylaşmadım. Kendi console hesabımda aktiftir.
+## ✨ Notlar
+
+1. Proje kodlanırken herhangi bir yapay zeka aracı kullanılmadı. Sadece githuba yüklenirken gemini cli kullanıldı.
+2. Tasarımlar tamamen özgündür.
+3. Proje githuba yüklenme tarihinden yıllar önce kodlanmış olup kodların durması maksatlı paylaşılmıştır.
+4. Keyfi projedir. Bireysel olarak android cihazımda kullanıyorum.
+5. Play store üzerinde gönderisini oluşturdun ama aab olarak paylaşmadım. Kendi console hesabımda aktiftir.
 
 
 ## ✨ Özellikler
