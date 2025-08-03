@@ -1,0 +1,230 @@
+{   
+    "common":{
+        "companyName":"TypeTek",
+        "appName":"Habiter",
+        "exit":"EXIT",
+        "cancel":"CANCEL",
+        "doExitApp":"Do you want to exit app?",
+        "home":"Home",
+        "neww":"New",
+        "stats":"Stats",
+        "snackbar":{
+            "comingSoon":"Coming Soon..."
+        }
+    },
+
+    "intro":{
+        "appbar":"Habiter by TypeTek",
+        "title0":"Set Your Goals",
+        "text0":"In our app, you can maintain a more disciplined lifestyle by setting daily goals",
+        "title1":"Get Personal Reports",
+        "text1":"Habiter helps you achive your daily, weekly and monthly goals by tracking your habits",
+        "title2":"Track Your Habits",
+        "text2":"The app provides you with personal reports that offer detailed analysis of your daily activities",
+        "skip":"SKIP",
+        "next":"NEXT"
+    },
+  
+    "settings":{
+        "appbar":"Settings",
+        "notification": "Notification",
+        "language":"Language",
+        "darkMode":"Dark Mode",
+        "ads":"Ads",
+        "backup":"Backup",
+        "report":"Report a problem",
+        "privacy":"Privacy policy",
+        "about":"About us",
+        "rate":"Rate us",
+        "logout":"Logout",
+        "version":"Version",
+        "english":"English",
+        "turkish":"Turkish",
+        "keep":"KEEP ENABLE",
+        "close":"CLOSE ANYWAY",
+        "selectLanguage":"Select Language",
+        "adAlertText":"The ability to turn off ads is offered to all users free of charge. However, it is recommended that you leave it open to the developer for support purposes.",
+        "backupAlertText":"When you turn off backup, all data of your account is stored on your device. Inaccessible from other devices"
+    },
+
+    "about":{
+        "appbar":"About us",
+        "companyText":"Habiter is a TypeTek product. It is free and available for personal use",
+        "question0":"What is TypeTek?",
+        "answer0":"TypeTek is an individual initiative that provides digital services in the fields of productivity and personal development",
+        "question1":"What is Habiter",
+        "answer1":"TypeTek is an individual initiative that provides digital services in the fields of productivity and personal development",
+        "question2":"How to use habiter more efficiently?",
+        "answer2":"TypeTek is an individual initiative that provides digital services in the fields of productivity and personal development"
+    },
+
+    "report":{
+        "appbar":"Report a problem",
+        "labelTitle":"Title",
+        "hintTitle":"Write a title for report",
+        "labelDescription":"Description",
+        "hintDescription":"Write a description",
+        "labelType":"Type",
+        "hintType":"Write a type",
+        "labelEmail":"E-mail",
+        "hintEmail":"Write your e-mail",
+        "reportNote":"Note: Please send a report with correct information. Incorrect notifications prevent the application from being developed positively. Also, thank you for your report notifications",
+        "report":"REPORT",
+        "snackbar":{
+            "thanksReport":"Thanks for the report",
+            "blankMustFilled":"All blanks must be filled"
+        }
+    },
+
+    "privacy":{
+        "appbar":"Privacy policy",
+        "question0":"Who created this privacy policy?",
+        "answer0":"This privacy policy has been written in its entirety by the developer individually. It is not affiliated with any institution or company",
+        "question1":"What is the purpose of the privacy policy?",
+        "answer1":"This privacy policy includes disclosures about the collection, use and disclosure of our users' personal information",
+        "question2":"Data collection",
+        "answer2":"Information collected from users is only necessary to perform the functions of our application. This information can be collected on the form or account creation page provided by users",
+        "question3":"Information Use",
+        "answer3":"The information collected is used only for the development and improvement of our application. This information may be used to improve user experience, troubleshoot and improve our services",
+        "question4":"Information sharing",
+        "answer4":"Users' personal information will never be shared with third parties",
+        "question5":"Information security",
+        "answer5":"The security of users' personal information is important to us. Therefore, various security measures are taken to protect the personal information of users. These measures include access control, data encryption, and secure server storage. All data stored in our database is encrypted. Including the developer cannot see this data",
+        "question6":"User Rights",
+        "answer6":"Users have the right to control and manage the personal information collected in our application. Users can edit their personal information in the account settings section, and can request deletion of their accounts or deletion of data collected by the application at any time",
+        "question7":"Changes",
+        "answer7":"We reserve the right to make changes to our privacy policy. Any changes to this policy will be posted on this page and notified to our users",
+        "writtenBy":"Written by TypeTek",
+        "writtenDate":"Jan 18, 2023"
+    },
+
+    "register":{
+        "title":"Create account",
+        "text":"Let’s get started your journey by creating an account",
+        "username":"username",
+        "password":"password",
+        "confirmPassword":"confirm password",
+        "signUp":"SING UP",
+        "orSignUp":"Or sign up with",
+        "alreadyHaveAccount":"Already have an account?",
+        "login":"Login",
+        "snackbar":{
+            "accountCreated":"Account created",
+            "passwordsDontMatch":"Passwords do not match",
+            "usernameShouldBe":"Username must be between 6-15 characters",
+            "passwordShouldBe":"Password must be between 8-25 characters",
+            "takenUsername":"Username taken",
+            "blankMustFilled":"All blanks must be filled",
+            "reEnterError":"An error occurred please re-enter the app"
+        }
+        
+    },
+
+    "login":{
+        "title":"Welcome Back!",
+        "text":"Sign in to accsess your personalized experience",
+        "username":"username",
+        "password":"password",
+        "login":"LOGIN",
+        "forgorPassword":"Forgot password?",
+        "orLogin":"Or login with",
+        "dontHaveAccount":"Don’t have an account?",
+        "signUp":"Sign Up",
+        "snackbar":{
+            "loggedIn":"logged in",
+            "invalidPassword":"Invalid password",
+            "accountNotFound":"Account not found",
+            "blankMustFilled":"All blanks must be filled",
+            "reEnterError":"An error occurred please re-enter the app"
+        }
+    },
+
+    "newhabit":{
+        "appbar":"ADD NEW",
+        "icon":"Icon",
+        "title":"Title",
+        "titleHint":"Write a title",
+        "description":"Description",
+        "descriptionHint":"Write a description",
+        "category":"Category",
+        "categoryHint":"Write category",
+        "start":"Start",
+        "startHint":"Start date",
+        "end":"End",
+        "endHint":"End date",
+        "time":"Time",
+        "timeHint":"Select time",
+        "reminder":"Reminder",
+        "before5m":"bfr. 5m",
+        "before30m":"bfr. 30m",
+        "before1h":"bfr. 1h",
+        "onTime":"on time",
+        "disable":"Disable",
+        "type":"Type",
+        "toDo":"To do",
+        "notToDo":"Not to do",
+        "frequency":"Frequency",
+        "everyDay":"Every Day",
+        "monday":"Monday",
+        "tuesday":"Tuesday",
+        "wednesday":"Wednesday",
+        "thursday":"Thursday",
+        "friday":"Friday",
+        "saturday":"Saturday",
+        "sunday":"Sunday",
+        "create":"CREATE",
+        "cancel":"CANCEL",
+        "edit":"EDIT",
+        "snackbar":{
+            "habitCreated":"Habit created",
+            "blankMustFilled":"All blanks must be filled",
+            "categoryCannotLong":"Category cannot exceed 20 characters",
+            "titleCannotLong":"Title cannot exceed 25 characters"
+        }
+
+    },
+
+    "home":{
+        "thisWeek":"This week",
+        "today":"Today",
+        "yesterday":"Yesterday",
+        "ago":"ago",
+        "days":"days",
+        "tomorrow":"Tomorrow",
+        "later":"later",
+        "success":"SUCCESS",
+        "failure":"FAILURE",
+        "enterComplete":"Enter Complate Comment",
+        "complate":"Complate",
+        "blankList":"No habits for the day"
+    },
+
+    "stats":{
+        "allHabits":"All Habits",
+        "blankList":"No habit yet"
+    },
+
+    "info":{
+        "appbar":"Habit info",
+        "description":"Description",
+        "startDate":"Start date",
+        "endDate":"End Date",
+        "category":"Category",
+        "type":"Type",
+        "toDo":"To do",
+        "notToDo":"Not to do",
+        "reminder":"Reminder",
+        "before5m":"Bfr5m",
+        "before30m":"Bfr30m",
+        "before1h":"bfr1h",
+        "onTime":"On Time",
+        "disable":"Disable",
+        "time":"Time",
+        "Frequency":"Frequency",
+        "complateComment":"Complate comment",
+        "delete":"DELETE",
+        "edit":"EDIT"
+    }
+  }
+
+

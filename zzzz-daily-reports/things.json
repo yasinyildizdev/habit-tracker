@@ -1,0 +1,35 @@
+{
+    "pages":[
+        "intro",
+        "register",
+        "login",
+        "settings",
+        "about",
+        "report",
+        "privacy",
+        "*create",
+        "home",
+        "stats",
+        "details"
+    ],
+    "fonts":[
+        "Gilroy-Bold.tff",
+        "Gilroy-ExtraBold.tff",
+        "Gilroy-Medium.tff",
+        "Gilroy-register.tff",
+        "Gilroy-SemiBold.tff."
+    ],
+    "packages":[
+        "flutter_riverpod : state management için",
+        "hive_flutter : local database için",
+        "http : http istekleri için",
+        "easy_localization : çoklu diz özelliği için",
+        "sqflite : local sql veritabanı için",
+        "device_preview : responsive tasarım için farklı cihazlarda test etmek için",
+        "smooth_page_indicator : pageview tasarımı için",
+        "flutter_svg : svg kullanmak için",
+        "theme_tailor_annotation",
+        "build_runner:",
+        "theme_tailor:"
+    ]
+}

@@ -1,0 +1,227 @@
+{   
+    "common":{
+        "companyName":"TypeTek",
+        "appName":"Habiter",
+        "exit":"ÇIKIŞ",
+        "cancel":"İPTAL",
+        "doExitApp":"Uygulamadan çıkmak mı istiyorsun?",
+        "home":"Ana sayfa",
+        "neww":"Yeni",
+        "stats":"İstistikler",
+        "snackbar":{
+            "comingSoon":"Çok yakında..."
+        }
+    },
+    
+    "intro":{
+        "appbar":"TypeTek'den Habiter",
+        "title0":"Hedeflerini belirle",
+        "text0":"Uygulamamızda günlük hedefler belirleyerek daha disiplinli bir yaşam tarzı sürdürebilirsiniz.",
+        "title1":"Alışkanlıklarınızı Takip Edin",
+        "text1":"Habiter, alışkanlıklarınızı takip ederek günlük, haftalık ve aylık hedeflerinize ulaşmanıza yardımcı olur.",
+        "title2":"Kişisel Raporlar Alın",
+        "text2":"Uygulama, size günlük etkinliklerinizin ayrıntılı analizini sunan kişisel raporlar sunar.",
+        "skip":" GEÇ ",
+        "next":"İLERİ"
+    },
+  
+    "settings":{
+        "appbar":"Ayarlar",
+        "notification": "Bildirimler",
+        "language":"Dil",
+        "darkMode":"Koyu tema",
+        "ads":"Reklamlar",
+        "backup":"Yedekleme",
+        "report":"Rapor",
+        "privacy":"Gizlilik politikası",
+        "about":"Hakkında",
+        "rate":"Bize puan verin",
+        "logout":"Çıkış",
+        "version":"Versiyon",
+        "english":"İngilizce",
+        "turkish":"Türkçe",
+        "keep":"AÇIK TUT",
+        "close":"KAPAT",
+        "selectLanguage":"Dil seç",
+        "adAlertText":"Reklamları kapatma özelliği tüm kullanıcılara ücretsiz şekilde sunulur. Ancak geliştiriciye destek amaçlı açık bırakmanız önerilir",
+        "backupAlertText":"Yedeklemeyi kapattığınızda hesabınıza ait tüm veriler cihazınızda saklanır. Diğer cihazlardan erişilemez"
+    },
+
+    "about":{
+        "appbar":"Hakkımızda",
+        "companyText":"Habiter bir TypeTek ürünüdür. Ücretsizdir ve kişisel kullanımlar için sunulur",
+        "question0":"TypeTek nedir?",
+        "answer0":"TypeTek verimlilik ve kişisel gelişim alanlarında dijital hizmetler sunan bir bireysel girişimdir.",
+        "question1":"Habiter nedir?",
+        "answer1":"TypeTek verimlilik ve kişisel gelişim alanlarında dijital hizmetler sunan bir bireysel girişimdir.",
+        "question2":"Habiter nasıl daha verimli kullanılır?",
+        "answer2":"TypeTek verimlilik ve kişisel gelişim alanlarında dijital hizmetler sunan bir bireysel girişimdir."
+    },
+
+    "report":{
+        "appbar":"Rapor gönder",
+        "labelTitle":"Başlık",
+        "hintTitle":"Rapor için başlık yaz",
+        "labelDescription":"Açıklama",
+        "hintDescription":"Bir açıklama yaz",
+        "labelType":"Tip",
+        "hintType":"Bir tip yaz",
+        "labelEmail":"E-posta",
+        "hintEmail":"E-mail adresini yaz",
+        "reportNote":"Not: Lütfen doğru bilgi içeren bir rapor gönderiniz. Yanlış bildirimler uygulamanın olumlu yönde geliştirilmesine engel olmaktadır. Ayrıca rapor bildirimleriniz için teşekkür ederiz",
+        "report":"RAPOR",
+        "snackbar":{
+            "thanksReport":"Rapor için teşekkürler",
+            "blankMustFilled":"Tüm boşluklar doldurulmalıdır"
+        }
+    },
+
+    "privacy":{
+        "appbar":"Gizlilik politikası",
+        "question0":"Bu gizlilik politikası kim tarafından hazırlanmıştır?",
+        "answer0":"Bu gizlilik politikası bütünü ile geliştirici tarafından bireysel olarak yazılmıştır. Herhangi bir kurum veya şirket ile bağlantısı yoktur.",
+        "question1":"Gizlilik politikasının amacı nedir?",
+        "answer1":"Bu gizlilik politikası, kullanıcılarımızın kişisel bilgilerinin toplanması, kullanımı ve ifşa edilmesiyle ilgili açıklamaları içermektedir.",
+        "question2":"Bilgi Toplama",
+        "answer2":"Kullanıcılardan toplanan bilgiler, sadece uygulamamızın işlevlerini yerine getirmek için gereklidir. Bu bilgiler, kullanıcılar tarafından sağlanan form veya hesap oluşturma sayfasında toplanabilir.",
+        "question3":"Bilgi Kullanımı",
+        "answer3":"Toplanan bilgiler sadece uygulamamızın geliştirilmesi ve iyileştirilmesi için kullanılır. Bu bilgiler, kullanıcı deneyiminin geliştirilmesi, sorun giderme ve hizmetlerimizin iyileştirilmesi için kullanılabilir.",
+        "question4":"Bilgi Paylaşımı",
+        "answer4":"Kullanıcıların kişisel bilgileri asla üçüncü taraflarla paylaşılmayacaktır.",
+        "question5":"Bilgi Güvenliği",
+        "answer5":"Kullanıcıların kişisel bilgilerinin güvenliği bizim için önemlidir. Bu nedenle, kullanıcıların kişisel bilgilerini korumak için çeşitli güvenlik önlemleri alınmaktadır. Bu önlemler, erişim kontrolü, veri şifreleme ve güvenli sunucu depolamasını içerir. Veritabanımızda depolanan tüm veriler şifrelidir. Geliştirici dahil bu verileri göremez.",
+        "question6":"Kullanıcı Hakları",
+        "answer6":"Kullanıcılar, uygulamamızda toplanan kişisel bilgileri kontrol etme ve yönetme hakkına sahiptir. Kullanıcılar, hesap ayarları bölümünden kişisel bilgilerini düzenleyebilir, istedikleri zaman hesaplarını silme veya uygulama tarafından toplanan verilerin silinmesi talebinde bulunabilirler.",
+        "question7":"Değişiklikler",
+        "answer7":"Gizlilik politikamızda değişiklik yapma hakkımız saklıdır. Bu politikada yapılacak herhangi bir değişiklik, bu sayfada yayınlanacak ve kullanıcılarımıza bildirilecektir.",
+        "writtenBy":"TypeTek tarafından yazılmıştır.",
+        "writtenDate":"Ocak 18, 2023"
+    },
+
+    "register":{
+        "title":"Hesap oluştur",
+        "text":"Bir hesap oluşturarak yolculuğunuza başlayalım",
+        "username":"kullanıcı adı",
+        "password":"şifre",
+        "confirmPassword":"şifreyi onayla",
+        "signUp":"KAYIT OL",
+        "orSignUp":"veya ile kayıt ol",
+        "alreadyHaveAccount":"Zaten hesabınız var mı?",
+        "login":"Giriş yap",
+        "snackbar":{
+            "accountCreated":"Hesap oluşturuldu",
+            "passwordsDontMatch":"Şifreler uyuşmuyor",
+            "usernameShouldBe":"Kullanıcı adı 6-15 karakter arasında olmalıdır",
+            "passwordShouldBe":"Şifre adı 8-25 karakter arasında olmalıdır",
+            "takenUsername":"Kullanıcı adı alınmış",
+            "blankMustFilled":"Tüm boşluklar doldurulmalıdır",
+            "reEnterError":"Bir hata oluştu lütfen uygulamaya tekrar girin"
+        }
+    },
+
+    "login":{
+        "title":"Tekrar hoşgeldiniz!",
+        "text":"Kişiselleştirilmiş deneyiminize erişmek için oturum açın",
+        "username":"kullanıcı adı",
+        "password":"şifre",
+        "login":"GİRİŞ YAP",        
+        "forgorPassword":"şifreni mi unuttun",
+        "orLogin":"veya giriş yap",
+        "dontHaveAccount":"Bir hsabın yok mu?",
+        "signUp":"Kayıt ol",
+        "snackbar":{
+            "loggedIn":"Giriş yapıldı",
+            "invalidPassword":"Geçersiz şifre",
+            "accountNotFound":"Hesap bulunamadı",
+            "blankMustFilled":"Tüm boşluklar doldurulmalıdır",
+            "reEnterError":"Bir hata oluştu lütfen uygulamaya tekrar girin"
+        }
+    },
+
+    "newhabit":{
+        "appbar":"YENİ EKLE",
+        "icon":"Simge",
+        "title":"Başlık",
+        "titleHint":"Bir başlık yaz",
+        "description":"Açıklama",
+        "descriptionHint":"Bir açıklama yaz",
+        "category":"Kategori",
+        "categoryHint":"Bir kategori yaz",
+        "start":"Başlangıç",
+        "startHint":"Başangıç tarihi",
+        "end":"Bitiş",
+        "endHint":"Bitiş tarihi",
+        "time":"Saat",
+        "timeHint":"Saat seç",
+        "reminder":"Hatırlatıcı",
+        "before5m":"5dk ö",
+        "before30m":"30dk ö",
+        "before1h":"1s ö",
+        "onTime":"zmnda",
+        "disable":"dvre dşı",
+        "type":"Tip",
+        "toDo":"Yapılacak",
+        "notToDo":"Yapılmayacak",
+        "frequency":"Sıklık",
+        "everyDay":"Her gün",
+        "monday":"Pazartesi",
+        "tuesday":"Salı",
+        "wednesday":"Çarşamba",
+        "thursday":"Perşembe",
+        "friday":"Cuma",
+        "saturday":"Cumartesi",
+        "sunday":"Pazar",
+        "create":"OLUŞTUR",
+        "cancel":"İPTAL",
+        "edit":"DÜZENLE",
+        "snackbar":{
+            "habitCreated":"Habit oluşturuldu",
+            "blankMustFilled":"Tüm boşluklar doldurulmalıdır",
+            "categoryCannotLong":"Kategori 20 karakterden fazla olamaz",
+            "titleCannotLong":"Başlık 25 karakterden fazla olamaz"
+
+        }
+    },
+
+    "home":{
+        "thisWeek":"Bu hafta",
+        "today":"Bugün",
+        "yesterday":"Dün",
+        "ago":"önce",
+        "days":"gün",
+        "tomorrow":"Yarın",
+        "later":"sonra",
+        "success":"BAŞARI",
+        "failure":"BAŞARISIZLIK",
+        "enterComplete":"Tamamlanma yorumu gir",
+        "complate":"Tamamla",
+        "blankList":"İlgili gün için bir habit yok"
+    },
+
+    "stats":{
+      "allHabits":"Tüm alışkanlıklar",
+      "blankList":"Henüz hiç alışkanlık yok"
+    },
+    
+    "info":{
+        "appbar":"Habit bilgi",
+        "description":"Açıklama",
+        "startDate":"Başlangıç",
+        "endDate":"Bitiş",
+        "category":"Kategori",
+        "type":"Tip",
+        "toDo":"Yapılacak",
+        "notToDo":"Yapılmayacak",
+        "reminder":"Hatırlatıcı",
+        "before5m":"5 dk ö",
+        "before30m":"30dk ö",
+        "before1h":"1s ö",
+        "onTime":"Zamanında",
+        "disable":"Kapalı",
+        "time":"Saat",
+        "Frequency":"Sıklık",
+        "complateComment":"Tamamlama yorumu",
+        "delete":"SİL",
+        "edit":"DÜZENLE"
+    }
+  }
